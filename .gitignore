@@ -103,3 +103,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+app/app/calc.py
+app/app/tests.py
