@@ -11,7 +11,7 @@ from core.models import Tag
 from recipe.serializers import TagSerializer
 
 
-# we are using view set, action nam eneed to be after urls with -
+# we are using view set, action name needed to be after urls with -
 TAGS_URL = reverse('recipe:tag-list')
 
 
