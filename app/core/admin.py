@@ -32,3 +32,5 @@ class UserAdmin(BaseUserAdmin):
 
 
 admin.site.register(models.User, UserAdmin)
+# register model with admin using default admin in admin pannel
+admin.site.register(models.Tag)
