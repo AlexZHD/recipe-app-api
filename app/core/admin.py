@@ -35,3 +35,4 @@ admin.site.register(models.User, UserAdmin)
 # register model with admin using default admin in admin pannel
 admin.site.register(models.Tag)
 admin.site.register(models.Ingredient)
+admin.site.register(models.Recipe)
