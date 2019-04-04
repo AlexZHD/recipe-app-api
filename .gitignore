@@ -53,6 +53,8 @@ coverage.xml
 
 # Django stuff:
 *.log
+*.pdf
+*.jpg
 local_settings.py
 db.sqlite3
 comm.txt
